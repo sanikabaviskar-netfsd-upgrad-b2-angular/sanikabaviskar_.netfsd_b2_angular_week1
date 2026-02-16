@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Royal Spice Restaurant</title>
+</head>
+<body>
+    <h1>Royal Spice Restaurant</h1>
+
+    <h2>About Our Restaurant</h2>
+    <p>
+        Welcome to <strong>Royal Spice Restaurant</strong>, where delicious flavors
+        and quality come together. We offer a wide variety of freshly cooked meals,
+        prepared with care using the finest ingredients to give you a memorable
+        dining experience.
+    </p>
+
+    <h2>Menu Categories</h2>
+    <ul>
+        <li>Starters</li>
+        <li>Main Course</li>
+        <li>Desserts</li>
+        <li>Beverages</li>
+    </ul>
+
+    <table border="2" cellpadding="2">
+        <h2>Price List</h2>
+        <tr>
+            <th>Item Name</th><th>Category</th><th>Price &#8377;</th>
+        </tr>
+        <tr>
+            <td>Paneer Butter Masala</td>
+            <td>Main Course</td>
+            <td>220</td>
+        </tr>
+        <tr>
+            <td>Veg Biryani</td>
+            <td>Main Course</td>
+            <td>180</td>
+        </tr>
+        <tr>
+            <td>Masala Dosa</td>
+            <td>Main Course</td>
+            <td>90</td>
+        </tr>
+        <tr>
+            <td>Cold Coffee</td>
+            <td>Main Course</td>
+            <td>120</td>
+        </tr>
+    </table>
+
+</body>
+</html>
